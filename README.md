@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Pavel
+### Hi there 👋 My name is Pavel and I'm a Python Developer.
 
 ## Stack
 Python, Django, DRF, SQL, Docker, Nginx, HTML, CSS, JS
