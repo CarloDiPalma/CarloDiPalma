@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Pavel and I'm a Python Developer.
 
 ## Stack
-Python, Django, DRF, SQL, Docker, Nginx, HTML, CSS, JS
+Python, Django, DRF, SQL, Postgres, Docker, Nginx, HTML, CSS, JS
 <!--
 **CarloDiPalma/CarloDiPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
