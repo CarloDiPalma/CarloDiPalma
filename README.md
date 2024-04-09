@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Pavel and I'm a Python Developer.
+### Hi there 👋 My name is Pavel and I'm a Python Developer. I am currently working on an educational project called [Decks](https://decks-words.com), as well as a new regional gov educational platform. If you have any suggestions or questions, please contact me using the contacts listed in my profile. 
 
 ## Stack
 Python, Django, DRF, SQL, Postgres, Docker, Nginx, HTML, CSS, JS
