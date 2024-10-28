@@ -1,8 +1,8 @@
 ### Hi there 👋 My name is Pavel and I'm a Python Developer.
-I am currently working on an educational project called [Decks](https://decks-words.com), as well as a new regional gov educational platform. If you have any suggestions or questions, please contact me using the contacts listed in my profile. 
+I am currently working on VPN service [SupaVPN](https://t.me/SupaVPN_bot). If you have any suggestions or questions, please contact me using the contacts listed in my profile. 
 
 ## Stack
-Python, Django, DRF, SQL, Postgres, Docker, Nginx, HTML, CSS, JS
+Python, Django, DRF, FastAPI, SQL, Postgres, Docker, Celery, Redis, SQLAlchemy, Nginx, HTML, CSS, JS
 <!--
 **CarloDiPalma/CarloDiPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
