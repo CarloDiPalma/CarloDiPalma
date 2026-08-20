@@ -2,7 +2,7 @@
 I am currently working on VPN service [SupaVPN](https://t.me/SupaVPN_bot?start=py). If you have any suggestions or questions, please contact me using the contacts listed in my profile. 
 
 ## Stack
-Python, Django, DRF, FastAPI, SQL, Postgres, Docker, Celery, Redis, SQLAlchemy, Nginx, HTML, CSS, JS
+Python, FastAPI, Django, DRF, SQL, Postgres, Docker, Celery, Redis, SQLAlchemy, Nginx, HTML, CSS, JS
 <!--
 **CarloDiPalma/CarloDiPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
